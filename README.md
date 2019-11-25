@@ -2,6 +2,7 @@
 <center>James E. Dobson<br>Dartmouth College</center>
 
 <h2>Repository Content:</h2>
+
 - data: lexicons and datasets for course
 - lectures: PDF of lecture slides
 
